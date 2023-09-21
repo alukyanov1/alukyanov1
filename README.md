@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=paneloux&theme=dark)](https://github.com/alukyanov1/github-readme)
+
+
 <!--
 **alukyanov1/alukyanov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
